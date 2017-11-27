@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "389799120550",
+    "firebase_url": "https://school-7eec5.firebaseio.com",
+    "project_id": "school-7eec5",
+    "storage_bucket": "school-7eec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389799120550:android:899caa3adc6ef5cb",
+        "android_client_info": {
+          "package_name": "eu.eegames.schoolgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389799120550-lf3c7n4839vi379qiaqr8eqjbl0evj2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH0tb36DIV7UJOyXwKuSEx2PSo7sMEKnM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
